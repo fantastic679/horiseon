@@ -34,4 +34,4 @@ Furthermore, additional grading requirements were met by making the following ch
 
 ## Screenshot
 
-![Screenshot of application taken through Google Chrome](/Assets/screenshot.png?raw=true)
+![Screenshot of application taken through Google Chrome](/assets/screenshot.png?raw=true)
