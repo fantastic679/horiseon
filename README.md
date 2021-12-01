@@ -21,7 +21,7 @@ Furthermore, additional grading requirements were met by making the following ch
 * Commented on CSS file
 * Deployed at live URL https://fantastic679.github.io/horiseon/
 * Ensured nil errors on loading
-* Submitted GitHub URL https://github.com/fantastic679/horiseon
+* Submitted GitHub URL https://github.com/fantastic679/horiseon/
 * Ensured GitHub repository contains code
 * Ensured application resembles mock-up
 * Provided a unique name for the repository
